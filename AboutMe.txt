@@ -3,7 +3,7 @@
 <p>Welcome to my terminal portflio. (Version 0.0.1)</p>
 
 <span id="a">sophiya@maharjan</span>:<span id="b">~</span><span id="c">$</span> cd SophiyaMaharjan/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
-<span id="a">sophiya@maharjan</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
+<span id="a">sophiya@maharjan</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->AboutMe.txt<br/><br/>
 My favorite code quote, "<span id="k">If, at first, you do not succeed, call it version 1.0.</span>". <!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
