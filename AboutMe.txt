@@ -6,8 +6,7 @@
 <span id="a">sophiya@maharjan</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->AboutMe.txt<br/><br/>
 My favorite code quote, "<span id="k">If, at first, you do not succeed, call it version 1.0.</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>Hi, My name is Sophiya Maharjan.<br> I'm a Devops Engineer based on Kathmandu, Lalitpur.<br>I am very passionate about automation and continous integration with continous delivery of the application/resources.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>Hey There! My name is Sophiya Maharjan.<br> I'm a Devops Engineer based on Kathmandu, Lalitpur.<br>I am very passionate about automation and continous integration with continous delivery of the application/resources.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>
 
 I have 2+ years of experience in architecting and automating integral deployments. Proficient in developing Jenkins, Gitlab/Bitbucket CI pipelines. Led the Deployment Team at SB Solutions ,accelerated the release on Test and UAT environment by 20%.
